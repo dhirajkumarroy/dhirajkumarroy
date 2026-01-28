@@ -1,58 +1,84 @@
-# Hi there 👋 I'm Dhiraj Kumar
+<h1 align="center">Hey there 👋, I'm Dhiraj Kumar</h1>
+<h3 align="center">🎓 B.Tech CSE (3rd Year) | 🤖 ML & AI Enthusiast | 📊 Data Explorer</h3>
 
-🎓 **B.Tech CSE (3rd Year)**  
-🤖 Passionate about **Machine Learning & AI**  
-📊 Exploring **Data Science, Backend Development & Intelligent Systems**
-
----
-
-## 🚀 About Me
-- Curious learner who enjoys turning ideas into real projects  
-- Interested in **AI-powered applications** and **scalable systems**  
-- Building projects to strengthen practical and problem-solving skills  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=550&lines=Machine+Learning+Explorer;AI+%26+Data+Science+Enthusiast;Building+Projects+That+Matter;Always+Learning+New+Things" />
+</p>
 
 ---
 
-## 🛠️ Technical Skills
-- **Programming:** Python, Java, Kotlin, JavaScript  
-- **Web:** HTML, CSS, JavaScript  
-- **AI / ML:** Machine Learning basics, NLP, TF-IDF, Logistic Regression  
-- **Tools:** Git & GitHub, Android Studio  
-- **Other:** REST concepts, APIs, Data handling
+## 🌟 About Me
+✨ Curious mind with a passion for **Machine Learning & Artificial Intelligence**  
+✨ Love building **real-world projects** and experimenting with ideas  
+✨ Exploring **Data Science, Backend Systems & Smart Applications**
 
 ---
 
-## 📌 Featured Projects
-🔹 **IntelliBot – Hybrid AI Chat Assistant**  
-Hybrid chatbot combining offline intent prediction with online LLMs.
+## 🧠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,kotlin,js,html,css,git,github,androidstudio" />
+</p>
 
-🔹 **Digital Drift**  
-Modern static blog with search, filters, dark mode & responsive UI.
+---
 
-🔹 **Tic Tac Toe (Android – Kotlin)**  
-Interactive Android game with score tracking and clean UI.
-
-🔹 **To-Do List Project**  
-Beginner-friendly project using HTML, CSS & JavaScript.
+## 🚀 Featured Projects
+<table>
+  <tr>
+    <td width="50%">
+      <h4>🤖 IntelliBot – Hybrid AI Chat Assistant</h4>
+      <p>Offline ML intent prediction + Online LLM integration</p>
+    </td>
+    <td width="50%">
+      <h4>📰 Digital Drift</h4>
+      <p>Modern static blog with search, dark mode & filters</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>🎮 Tic Tac Toe (Android)</h4>
+      <p>Kotlin-based game with score tracking & clean UI</p>
+    </td>
+    <td width="50%">
+      <h4>📝 To-Do List Project</h4>
+      <p>HTML, CSS & JavaScript beginner-friendly app</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🌱 Currently Learning
-- Advanced Machine Learning concepts  
-- Backend development & APIs  
-- Improving problem-solving and system thinking  
+🔹 Advanced Machine Learning  
+🔹 Backend Development & APIs  
+🔹 Clean Architecture & Best Practices  
 
 ---
 
 ## 🔗 Portfolio
-🌐 **Personal Portfolio:**  
-👉 https://backend-portfolio-dft.pages.dev/
+<p align="center">
+  🌐 <a href="https://backend-portfolio-dft.pages.dev/">Visit My Portfolio</a>
+</p>
 
 ---
 
-## 📊 GitHub Activity
-I actively work on projects and improve existing ones to build consistency and hands-on experience.
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhirajkumarroy&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhirajkumarroy&theme=tokyonight" />
+</p>
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories.*
+## 🟩 Contribution Energy
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhirajkumarroy&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting! Feel free to explore my repositories ⭐
+</p>
