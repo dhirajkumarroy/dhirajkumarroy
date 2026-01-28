@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Dhiraj Kumar</h1>
-<h3 align="center">🎓 B.Tech CSE (3rd Year) | 🤖 ML & AI Enthusiast | 📊 Data Explorer</h3>
+<h3 align="center">🎓 B.Tech CSE (4th Year) | 🤖 ML & AI Enthusiast | 📊 Data Explorer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=550&lines=Machine+Learning+Explorer;AI+%26+Data+Science+Enthusiast;Building+Projects+That+Matter;Always+Learning+New+Things" />
