@@ -241,7 +241,7 @@ Modern static blog with real-time search, smart filtering, dark mode, and fully 
 ```
 
 **Stack:** `HTML5` `CSS3` `JavaScript`
-🔗 **[Live →](https://blog.dhirajroy.com/)**
+ 🔗 **[Live →](https://blog.dhirajroy.com/)**
 
 </td>
 </tr>
